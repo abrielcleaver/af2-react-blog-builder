@@ -1,8 +1,9 @@
 header {
   height: 40px;
   background-color: var(--color2);
-  color: var(--color3);
+  color: darkolivegreen;
   display: flex;
   align-items: center;
   padding-left: 20px;
+  font: 'monteserrat';
 }

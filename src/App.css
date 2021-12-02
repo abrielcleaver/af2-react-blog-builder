@@ -7,7 +7,7 @@ body {
   --colorDark: #272727;
   --header-height: 40px;
   font-family: 'Roboto', sans-serif;
-  background-color: var(--color4);
+  background-color: darkolivegreen;
   color: var(--color1);
 }
 
